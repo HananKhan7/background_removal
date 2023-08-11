@@ -1,4 +1,5 @@
 torch
+tensorflow
 PyOpenGL
 PyOpenGL_accelerate
 urllib3
@@ -8,4 +9,3 @@ torchvision
 torchaudio
 numpy 
 flask
-tensorflow
