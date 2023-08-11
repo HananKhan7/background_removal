@@ -1,0 +1,10 @@
+torch
+PyOpenGL
+PyOpenGL_accelerate
+urllib3
+opencv-python
+pillow
+torchvision
+torchaudio
+numpy 
+flask
