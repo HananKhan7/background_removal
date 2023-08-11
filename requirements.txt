@@ -8,3 +8,4 @@ torchvision
 torchaudio
 numpy 
 flask
+tensorflow
